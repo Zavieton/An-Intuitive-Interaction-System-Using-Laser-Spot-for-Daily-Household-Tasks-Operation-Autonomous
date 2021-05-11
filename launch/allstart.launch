@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<launch>
+
+
+  <node name="detector" pkg="detector_sample" type="realsense_detector.py"/>
+  <node name="process_listener" pkg="detector_sample" type="ordertalker.py"/>
+  <node name="depth_msg" pkg="detector_sample" type="depth_talker.py"/>
+  <node name="toolpos" pkg="detector_sample" type="toolpos_get.py"/>
+  <node name="msg_mix" pkg="detector_sample" type="msgmix.py"/>
+
+
+</launch>
