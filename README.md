@@ -1,10 +1,17 @@
 My graduate project , 2021-06
+
 Harbin Institute of Technology
+
 which the project needed:
+
 OPENCV4
+
 CUDA & CUDNN
+
 LIBSVM
+
 KINOVA-ROS
+
 OPENNI or REALSENSE-ROS
 
 and other python env
