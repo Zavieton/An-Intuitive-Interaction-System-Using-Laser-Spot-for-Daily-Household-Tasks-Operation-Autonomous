@@ -22,3 +22,4 @@ daily household tasks show that the accuracy of laser semantic detection is abov
 92%, the number and time of laser interaction are 33% and 75% of the handle
 interaction.
 
+![image](https://github.com/Zavieton/An-Intuitive-Interaction-System-Using-Laser-Spot-for-Daily-Household-Tasks-Operation-Autonomous/blob/main/wmra_system.png)
