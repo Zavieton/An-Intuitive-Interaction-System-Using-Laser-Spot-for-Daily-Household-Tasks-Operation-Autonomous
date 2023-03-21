@@ -1,5 +1,7 @@
 # An Intuitive Interaction System Using Laser Spot for Daily Household Tasks Operation Autonomous
 
+this repo is some details of our paper *An Intuitive Interaction System Using Laser Spot for Daily Household Tasks Operation Autonomous* published on ICIRA 2021.
+
 ### Environments： Env_Config.ipynb
 ### Paper and Experiments： https://link.springer.com/chapter/10.1007/978-3-030-89134-3_25
 ### Videos： https://www.youtube.com/watch?v=YLUohr3KlCg&list=LL&index=2
